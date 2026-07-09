@@ -4,7 +4,12 @@
 
 ![Rotation modes comparison](rotation_all_modes.gif)
 
+
+
 The GIF above shows three rotation strategies side by side: **cut**, **preserve**, and **zoom to content**, generated with the Lanczos (a=4) algorithm.
+
+## GUI Preview
+![GUI](GUI_preview.gif)
 
 ## Usage
 
